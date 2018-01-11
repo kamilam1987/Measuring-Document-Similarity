@@ -1,5 +1,5 @@
 # Measuring-Document-Similarity
-## Object Oriented Programming Project for easuring Document Similarity
+## Object Oriented Programming Project for measuring Document Similarity
 #### This Project is a Java API that  can rapidly compare two large text files by computing their Jaccard Index.
 I generated javdocs through command prompt by entering the following command in the src directory of the project:<br/>
 javadoc -d [path to javadoc destination directory] ie.gmit.sw<br/>
